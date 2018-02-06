@@ -21,7 +21,7 @@ describe("modules", function() {
     beforeEach(function() {
 
         core = new Core();
-    );
+    });
 
     afterEach(function() {
         core = null;
